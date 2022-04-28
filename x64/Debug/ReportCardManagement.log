@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\Desktop\DWIT\OOP\ClassWork\ReportCardManagement\HelperClass.h(19,17): warning C4101: 'om': unreferenced local variable
+  ReportCardManagement.vcxproj -> C:\Users\User\Desktop\DWIT\OOP\ClassWork\ReportCardManagement\x64\Debug\ReportCardManagement.exe
